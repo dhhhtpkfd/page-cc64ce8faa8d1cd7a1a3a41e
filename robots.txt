@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.cndaodiyaocai.com/sitemap.xml
